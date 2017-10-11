@@ -1,2 +1,2 @@
 # client-mimcs
-Producer-Consumer Message Transfer
+This is a Producer-Consumer Message Transfer Java application
